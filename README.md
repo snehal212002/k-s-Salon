@@ -35,6 +35,7 @@ The website includes links to the salon's social media profiles, allowing users 
 **Technologies Used:**
 
 **Frontend:**
+
 1.HTML5 for structuring the website.
 
 2.CSS3 for styling and animations.
