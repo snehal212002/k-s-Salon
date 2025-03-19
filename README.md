@@ -30,3 +30,15 @@ Users can easily find the salon's location, contact details, and working hours.A
 
 **Social Media Integration:**
 The website includes links to the salon's social media profiles, allowing users to connect and stay updated on promotions and events.
+
+
+**Technologies Used:**
+
+**Frontend:**
+1.HTML5 for structuring the website.
+
+2.CSS3 for styling and animations.
+
+3.Bootstrap for responsive design and layout.
+
+4.JavaScript for interactive elements like the carousel and smooth scrolling.
