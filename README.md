@@ -5,6 +5,7 @@
 The K's Salon Website is a modern, responsive, and user-friendly platform designed to showcase the services and offerings of K's Glamour Lounge. This website serves as a digital gateway for clients to explore the salon's services, book appointments, view testimonials, and connect with the salon. Built with a focus on aesthetics and functionality, the website provides an immersive experience for users, ensuring they can easily access information and engage with the salon's offerings.
 
 **Key Features:**
+
 **Responsive Design:**
 The website is fully responsive, ensuring a seamless experience on desktops, tablets, and mobile devices.Built using HTML, CSS, Bootstrap, and JavaScript, the design is modern, clean, and visually appealing.
 
